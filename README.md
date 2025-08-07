@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tousif Ahmad</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tousifahmad&label=Profile%20views&color=0e75b6&style=flat" alt="tousifahmad" />
-</p>
-
 ---
 
 - 🔭 I’m currently working on **responsive websites and mini JavaScript projects**
@@ -15,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, and web design**
 
-- 📫 How to reach me: **tousifahmad.dev@gmail.com** *(update if needed)*
+- 📫 How to reach me: **tousifahmadkhn.@gmail.com** 
 
 - ⚡ Fun fact: *I love turning complex designs into simple code!*
 
@@ -47,10 +43,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank">
+  <a href="https://www.linkedin.com/in/tousif-ahmad/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/tousifahmad" target="blank">
+  <a href="https://github.com/Tousif-Ahmad/tousifahmad" target="blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
